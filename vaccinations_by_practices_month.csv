@@ -1,0 +1,561 @@
+vacc,prac,week,year,totalweek
+VAXNEUVANCE,Pediatric Medical World,1.0,2023.0,9
+VAXNEUVANCE,Pediatric Medical World,12.0,2022.0,3
+VAXELIS,Margaret Safo,11.0,2022.0,1
+VAXELIS,Margaret Safo,12.0,2022.0,1
+VAXELIS,Pediatric Medical World,12.0,2022.0,1
+VARIVAX,Dr. Gamundi,10.0,2022.0,6
+VARIVAX,Dr. Gamundi,12.0,2022.0,4
+VARIVAX,Margaret Safo,12.0,2022.0,1
+VARIVAX,Dr. Gupta,12.0,2022.0,4
+VARIVAX,Dr. Gupta,11.0,2022.0,6
+VARIVAX,Dr. Gupta,10.0,2022.0,4
+VARIVAX,Dr. Gupta,9.0,2022.0,3
+VARIVAX,Dr. Gupta,8.0,2022.0,5
+VARIVAX,Dr. Gupta,7.0,2022.0,4
+VARIVAX,Margaret Safo,10.0,2022.0,1
+VARIVAX,Margaret Safo,9.0,2022.0,1
+VARIVAX,Dr. Gupta,6.0,2022.0,3
+VARIVAX,Dr. Gupta,5.0,2022.0,1
+VARIVAX,Dr. Gupta,1.0,2023.0,1
+VARIVAX,Dr. Kolesnikov,1.0,2023.0,2
+VARIVAX,Dr. Kolesnikov,2.0,2022.0,2
+VARIVAX,Dr. Kolesnikov,3.0,2022.0,1
+VARIVAX,Dr. Kolesnikov,4.0,2022.0,5
+VARIVAX,Dr. Kolesnikov,5.0,2022.0,1
+VARIVAX,Dr. Kolesnikov,6.0,2022.0,1
+VARIVAX,Dr. Kolesnikov,9.0,2022.0,3
+VARIVAX,Dr. Kolesnikov,12.0,2022.0,3
+VARIVAX,Western Care Su Salud,11.0,2022.0,1
+VARIVAX,Western Care Su Salud,10.0,2022.0,1
+VARIVAX,Western Care Su Salud,1.0,2023.0,1
+VARIVAX,Margaret Safo,8.0,2022.0,6
+VARIVAX,Margaret Safo,7.0,2022.0,1
+VARIVAX,Margaret Safo,6.0,2022.0,2
+VARIVAX,Margaret Safo,4.0,2022.0,2
+VARIVAX,Margaret Safo,3.0,2022.0,3
+VARIVAX,Margaret Safo,1.0,2023.0,1
+VARIVAX,Emmett Pediatric Associates,1.0,2023.0,2
+VARIVAX,Emmett Pediatric Associates,11.0,2022.0,2
+VARIVAX,Emmett Pediatric Associates,12.0,2022.0,6
+VARIVAX,Pediatric Medical World,1.0,2023.0,1
+VARIVAX,Dr. Gamundi,1.0,2023.0,1
+VARIVAX,Dr. Gamundi,9.0,2022.0,5
+VARIVAX,Dr. Gamundi,11.0,2022.0,1
+VAQTA,Western Care Su Salud,1.0,2023.0,1
+VAQTA,Pediatric Medical World,1.0,2023.0,3
+VAQTA,Margaret Safo,10.0,2022.0,1
+VAQTA,Margaret Safo,9.0,2022.0,3
+VAQTA,Margaret Safo,8.0,2022.0,6
+VAQTA,Pediatric Medical World,12.0,2022.0,6
+VAQTA,Dr. Gupta,7.0,2022.0,5
+VAQTA,Dr. Gupta,8.0,2022.0,8
+VAQTA,Dr. Gupta,9.0,2022.0,5
+VAQTA,Dr. Gupta,10.0,2022.0,5
+VAQTA,Dr. Gupta,11.0,2022.0,5
+VAQTA,Emmett Pediatric Associates,11.0,2022.0,1
+VAQTA,Western Care Su Salud,11.0,2022.0,1
+VAQTA,Western Care Su Salud,10.0,2022.0,2
+VAQTA,Dr. Gamundi,1.0,2023.0,1
+VAQTA,Dr. Gamundi,10.0,2022.0,1
+VAQTA,Dr. Gamundi,11.0,2022.0,6
+VAQTA,Dr. Gamundi,12.0,2022.0,4
+VAQTA,Emmett Pediatric Associates,12.0,2022.0,3
+VAQTA,Dr. Gamundi,9.0,2022.0,5
+VAQTA,Dr. Gupta,12.0,2022.0,4
+VAQTA,Margaret Safo,6.0,2022.0,1
+VAQTA,Margaret Safo,5.0,2022.0,1
+VAQTA,Margaret Safo,4.0,2022.0,1
+VAQTA,Margaret Safo,3.0,2022.0,3
+VAQTA,Margaret Safo,1.0,2023.0,2
+VAQTA,Dr. Gupta,1.0,2023.0,2
+VAQTA,Dr. Gupta,5.0,2022.0,2
+VAQTA,Dr. Gupta,6.0,2022.0,4
+VAQTA,Emmett Pediatric Associates,1.0,2023.0,2
+VAQTA,Margaret Safo,12.0,2022.0,1
+VAQTA,Western Care Su Salud,9.0,2022.0,1
+Trumenba,Dr. Gupta,6.0,2022.0,2
+Trumenba,Dr. Gupta,9.0,2022.0,1
+Trumenba,Dr. Gupta,8.0,2022.0,4
+TENIVAC,Western Care Su Salud,9.0,2022.0,1
+Shingrix,Western Care PC,1.0,2023.0,2
+Shingrix,Western Care PC,10.0,2022.0,13
+Shingrix,Western Care PC,12.0,2022.0,2
+Shingrix,Western Care PC,11.0,2022.0,17
+RotaTeq,Margaret Safo,3.0,2022.0,6
+RotaTeq,Margaret Safo,1.0,2023.0,1
+RotaTeq,Dr. Gamundi,10.0,2022.0,3
+RotaTeq,Dr. Gupta,12.0,2022.0,2
+RotaTeq,Dr. Gupta,11.0,2022.0,3
+RotaTeq,Dr. Gupta,9.0,2022.0,5
+RotaTeq,Dr. Gupta,8.0,2022.0,1
+RotaTeq,Dr. Gupta,7.0,2022.0,4
+RotaTeq,Dr. Gupta,6.0,2022.0,1
+RotaTeq,Dr. Gamundi,11.0,2022.0,2
+RotaTeq,Emmett Pediatric Associates,11.0,2022.0,1
+RotaTeq,Emmett Pediatric Associates,12.0,2022.0,8
+RotaTeq,Dr. Gamundi,12.0,2022.0,2
+RotaTeq,Dr. Gamundi,9.0,2022.0,5
+RotaTeq,Dr. Gamundi,1.0,2023.0,2
+RotaTeq,Margaret Safo,10.0,2022.0,1
+RotaTeq,Margaret Safo,11.0,2022.0,3
+RotaTeq,Margaret Safo,12.0,2022.0,1
+RotaTeq,Pediatric Medical World,1.0,2023.0,6
+RotaTeq,Pediatric Medical World,12.0,2022.0,17
+RotaTeq,Margaret Safo,9.0,2022.0,2
+RotaTeq,Margaret Safo,7.0,2022.0,1
+RotaTeq,Margaret Safo,8.0,2022.0,2
+RotaTeq,Emmett Pediatric Associates,1.0,2023.0,1
+RotaTeq,Margaret Safo,6.0,2022.0,4
+RotaTeq,Margaret Safo,5.0,2022.0,1
+RotaTeq,Margaret Safo,4.0,2022.0,2
+ROTARIX,Dr. Kolesnikov,7.0,2022.0,2
+ROTARIX,Dr. Kolesnikov,2.0,2022.0,1
+ROTARIX,Dr. Kolesnikov,3.0,2022.0,2
+ROTARIX,Dr. Kolesnikov,4.0,2022.0,3
+ROTARIX,Dr. Kolesnikov,6.0,2022.0,2
+ROTARIX,Dr. Kolesnikov,8.0,2022.0,1
+ROTARIX,Dr. Kolesnikov,10.0,2022.0,1
+RECOMBIVAX HB,Margaret Safo,5.0,2022.0,1
+RECOMBIVAX HB,Margaret Safo,6.0,2022.0,3
+RECOMBIVAX HB,Margaret Safo,8.0,2022.0,3
+RECOMBIVAX HB,Margaret Safo,9.0,2022.0,2
+RECOMBIVAX HB,Dr. Gupta,11.0,2022.0,4
+RECOMBIVAX HB,Dr. Gupta,12.0,2022.0,2
+RECOMBIVAX HB,Emmett Pediatric Associates,12.0,2022.0,9
+RECOMBIVAX HB,Emmett Pediatric Associates,11.0,2022.0,4
+RECOMBIVAX HB,Emmett Pediatric Associates,1.0,2023.0,2
+RECOMBIVAX HB,Dr. Gamundi,12.0,2022.0,4
+RECOMBIVAX HB,Dr. Gupta,5.0,2022.0,1
+RECOMBIVAX HB,Dr. Gupta,6.0,2022.0,2
+RECOMBIVAX HB,Dr. Gupta,6.0,2022.0,2
+RECOMBIVAX HB,Dr. Gupta,7.0,2022.0,6
+RECOMBIVAX HB,Dr. Gamundi,1.0,2023.0,2
+RECOMBIVAX HB,Dr. Gamundi,9.0,2022.0,2
+RECOMBIVAX HB,Dr. Gamundi,10.0,2022.0,2
+RECOMBIVAX HB,Dr. Gupta,8.0,2022.0,4
+RECOMBIVAX HB,Dr. Gupta,9.0,2022.0,6
+RECOMBIVAX HB,Dr. Gupta,10.0,2022.0,2
+QUADRACEL,Dr. Gamundi,12.0,2022.0,1
+QUADRACEL,Emmett Pediatric Associates,1.0,2023.0,1
+QUADRACEL,Dr. Gamundi,9.0,2022.0,2
+QUADRACEL,Emmett Pediatric Associates,12.0,2022.0,2
+QUADRACEL,Dr. Gamundi,11.0,2022.0,2
+QUADRACEL,Dr. Gamundi,10.0,2022.0,1
+QUADRACEL,Dr. Gamundi,9.0,2022.0,2
+QUADRACEL,Dr. Gamundi,1.0,2023.0,1
+ProQuad,Dr. Kolesnikov,11.0,2022.0,2
+ProQuad,Dr. Kolesnikov,5.0,2022.0,1
+ProQuad,Dr. Kolesnikov,6.0,2022.0,5
+ProQuad,Dr. Kolesnikov,7.0,2022.0,2
+ProQuad,Dr. Kolesnikov,9.0,2022.0,1
+ProQuad,Dr. Kolesnikov,10.0,2022.0,2
+ProQuad,Dr. Kolesnikov,12.0,2022.0,3
+ProQuad,Pediatric Medical World,12.0,2022.0,5
+ProQuad,Pediatric Medical World,1.0,2023.0,1
+ProQuad,Margaret Safo,1.0,2023.0,3
+ProQuad,Margaret Safo,8.0,2022.0,1
+ProQuad,Margaret Safo,10.0,2022.0,1
+ProQuad,Margaret Safo,11.0,2022.0,2
+Prevnar 20,Western Care PC,1.0,2023.0,3
+Prevnar 20,Western Care PC,10.0,2022.0,5
+Prevnar 20,Western Care PC,11.0,2022.0,15
+Prevnar 20,Western Care PC,12.0,2022.0,6
+PREVNAR 13,Dr. Gamundi,12.0,2022.0,4
+PREVNAR 13,Dr. Gamundi,11.0,2022.0,5
+PREVNAR 13,Dr. Gamundi,10.0,2022.0,6
+PREVNAR 13,Dr. Gamundi,9.0,2022.0,6
+PREVNAR 13,Dr. Gamundi,1.0,2023.0,3
+PREVNAR 13,Dr. Gupta,8.0,2022.0,9
+PREVNAR 13,Emmett Pediatric Associates,1.0,2023.0,1
+PREVNAR 13,Emmett Pediatric Associates,11.0,2022.0,3
+PREVNAR 13,Emmett Pediatric Associates,12.0,2022.0,11
+PREVNAR 13,Pediatric Medical World,12.0,2022.0,18
+PREVNAR 13,Dr. Kolesnikov,12.0,2022.0,2
+PREVNAR 13,Dr. Kolesnikov,10.0,2022.0,1
+PREVNAR 13,Dr. Kolesnikov,9.0,2022.0,3
+PREVNAR 13,Dr. Kolesnikov,8.0,2022.0,4
+PREVNAR 13,Dr. Kolesnikov,7.0,2022.0,2
+PREVNAR 13,Dr. Kolesnikov,6.0,2022.0,1
+PREVNAR 13,Dr. Kolesnikov,5.0,2022.0,1
+PREVNAR 13,Dr. Kolesnikov,4.0,2022.0,3
+PREVNAR 13,Dr. Kolesnikov,3.0,2022.0,4
+PREVNAR 13,Dr. Kolesnikov,1.0,2023.0,2
+PREVNAR 13,Dr. Gupta,5.0,2022.0,1
+PREVNAR 13,Dr. Gupta,6.0,2022.0,6
+PREVNAR 13,Dr. Gupta,7.0,2022.0,7
+PREVNAR 13,Margaret Safo,1.0,2023.0,1
+PREVNAR 13,Margaret Safo,3.0,2022.0,7
+PREVNAR 13,Margaret Safo,4.0,2022.0,2
+PREVNAR 13,Margaret Safo,5.0,2022.0,2
+PREVNAR 13,Margaret Safo,6.0,2022.0,7
+PREVNAR 13,Margaret Safo,7.0,2022.0,1
+PREVNAR 13,Margaret Safo,8.0,2022.0,2
+PREVNAR 13,Margaret Safo,9.0,2022.0,1
+PREVNAR 13,Margaret Safo,10.0,2022.0,1
+PREVNAR 13,Margaret Safo,11.0,2022.0,7
+PREVNAR 13,Margaret Safo,12.0,2022.0,3
+PREVNAR 13,Dr. Gupta,12.0,2022.0,1
+PREVNAR 13,Dr. Gupta,11.0,2022.0,5
+PREVNAR 13,Dr. Gupta,10.0,2022.0,2
+PREVNAR 13,Dr. Gupta,9.0,2022.0,5
+PENTACEL,Margaret Safo,8.0,2022.0,3
+PENTACEL,Margaret Safo,7.0,2022.0,1
+PENTACEL,Margaret Safo,6.0,2022.0,6
+PENTACEL,Margaret Safo,1.0,2023.0,1
+PENTACEL,Margaret Safo,3.0,2022.0,3
+PENTACEL,Margaret Safo,4.0,2022.0,1
+PENTACEL,Margaret Safo,5.0,2022.0,2
+PENTACEL,Margaret Safo,9.0,2022.0,2
+PENTACEL,Dr. Gamundi,1.0,2023.0,4
+PENTACEL,Dr. Gamundi,9.0,2022.0,5
+PENTACEL,Dr. Gamundi,10.0,2022.0,5
+PENTACEL,Dr. Gamundi,11.0,2022.0,3
+PENTACEL,Dr. Gamundi,12.0,2022.0,2
+PENTACEL,Pediatric Medical World,12.0,2022.0,10
+PENTACEL,Margaret Safo,12.0,2022.0,2
+PENTACEL,Dr. Kolesnikov,4.0,2022.0,1
+PENTACEL,Dr. Kolesnikov,3.0,2022.0,2
+PENTACEL,Margaret Safo,11.0,2022.0,5
+PENTACEL,Margaret Safo,10.0,2022.0,1
+PENTACEL,Emmett Pediatric Associates,12.0,2022.0,13
+PENTACEL,Emmett Pediatric Associates,11.0,2022.0,3
+PENTACEL,Emmett Pediatric Associates,1.0,2023.0,1
+PENTACEL,Dr. Kolesnikov,2.0,2022.0,3
+PENTACEL,Pediatric Medical World,1.0,2023.0,6
+PedvaxHIB,Dr. Gamundi,11.0,2022.0,1
+PedvaxHIB,Pediatric Medical World,12.0,2022.0,8
+PedvaxHIB,Dr. Gamundi,12.0,2022.0,3
+PedvaxHIB,Dr. Gamundi,1.0,2023.0,1
+PedvaxHIB,Dr. Gamundi,9.0,2022.0,1
+PedvaxHIB,Dr. Gamundi,10.0,2022.0,3
+PedvaxHIB,Pediatric Medical World,1.0,2023.0,2
+PEDIARIX,Dr. Kolesnikov,10.0,2022.0,2
+PEDIARIX,Dr. Kolesnikov,11.0,2022.0,6
+PEDIARIX,Dr. Kolesnikov,12.0,2022.0,2
+PEDIARIX,Margaret Safo,11.0,2022.0,1
+PEDIARIX,Margaret Safo,4.0,2022.0,1
+PEDIARIX,Margaret Safo,3.0,2022.0,4
+PEDIARIX,Pediatric Medical World,12.0,2022.0,8
+PEDIARIX,Dr. Kolesnikov,9.0,2022.0,3
+PEDIARIX,Dr. Kolesnikov,8.0,2022.0,4
+PEDIARIX,Dr. Kolesnikov,7.0,2022.0,2
+PEDIARIX,Dr. Kolesnikov,6.0,2022.0,5
+PEDIARIX,Dr. Kolesnikov,5.0,2022.0,5
+PEDIARIX,Dr. Kolesnikov,4.0,2022.0,7
+PEDIARIX,Dr. Kolesnikov,3.0,2022.0,6
+PEDIARIX,Dr. Kolesnikov,2.0,2022.0,1
+PEDIARIX,Dr. Kolesnikov,1.0,2023.0,3
+PEDIARIX,Pediatric Medical World,1.0,2023.0,2
+M-M-R II,Dr. Gamundi,10.0,2022.0,1
+M-M-R II,Dr. Kolesnikov,2.0,2022.0,1
+M-M-R II,Dr. Kolesnikov,3.0,2022.0,3
+M-M-R II,Dr. Kolesnikov,4.0,2022.0,2
+M-M-R II,Dr. Kolesnikov,5.0,2022.0,1
+M-M-R II,Dr. Kolesnikov,6.0,2022.0,1
+M-M-R II,Dr. Kolesnikov,8.0,2022.0,4
+M-M-R II,Dr. Kolesnikov,12.0,2022.0,1
+M-M-R II,Margaret Safo,1.0,2023.0,3
+M-M-R II,Margaret Safo,3.0,2022.0,3
+M-M-R II,Margaret Safo,4.0,2022.0,2
+M-M-R II,Margaret Safo,6.0,2022.0,2
+M-M-R II,Margaret Safo,7.0,2022.0,2
+M-M-R II,Margaret Safo,8.0,2022.0,4
+M-M-R II,Margaret Safo,9.0,2022.0,2
+M-M-R II,Margaret Safo,12.0,2022.0,1
+M-M-R II,Dr. Gamundi,1.0,2023.0,1
+M-M-R II,Dr. Gamundi,9.0,2022.0,4
+M-M-R II,Dr. Gamundi,11.0,2022.0,1
+M-M-R II,Dr. Gamundi,12.0,2022.0,3
+M-M-R II,Western Care Su Salud,1.0,2023.0,1
+M-M-R II,Western Care Su Salud,10.0,2022.0,1
+M-M-R II,Emmett Pediatric Associates,1.0,2023.0,2
+M-M-R II,Emmett Pediatric Associates,11.0,2022.0,1
+M-M-R II,Emmett Pediatric Associates,12.0,2022.0,6
+M-M-R II,Pediatric Medical World,1.0,2023.0,1
+M-M-R II,Pediatric Medical World,12.0,2022.0,1
+M-M-R II,Dr. Gupta,1.0,2023.0,1
+M-M-R II,Dr. Gupta,5.0,2022.0,1
+M-M-R II,Dr. Gupta,6.0,2022.0,4
+M-M-R II,Dr. Gupta,7.0,2022.0,1
+M-M-R II,Dr. Gupta,8.0,2022.0,5
+M-M-R II,Dr. Gupta,9.0,2022.0,2
+M-M-R II,Dr. Gupta,10.0,2022.0,3
+M-M-R II,Dr. Gupta,11.0,2022.0,4
+M-M-R II,Dr. Gupta,12.0,2022.0,5
+Menveo,Dr. Kolesnikov,2.0,2022.0,1
+Menveo,Dr. Kolesnikov,8.0,2022.0,2
+Menveo,Dr. Kolesnikov,4.0,2022.0,3
+Menveo,Dr. Kolesnikov,6.0,2022.0,1
+Menveo,Dr. Kolesnikov,9.0,2022.0,2
+Menveo,Margaret Safo,12.0,2022.0,5
+Menveo,Margaret Safo,11.0,2022.0,7
+Menveo,Margaret Safo,10.0,2022.0,9
+Menveo,Margaret Safo,9.0,2022.0,4
+Menveo,Margaret Safo,8.0,2022.0,4
+Menveo,Margaret Safo,7.0,2022.0,5
+Menveo,Margaret Safo,6.0,2022.0,1
+Menveo,Margaret Safo,5.0,2022.0,2
+Menveo,Margaret Safo,4.0,2022.0,6
+Menveo,Margaret Safo,3.0,2022.0,5
+Menveo,Margaret Safo,1.0,2023.0,3
+Menveo,Dr. Kolesnikov,11.0,2022.0,4
+Menveo,Dr. Kolesnikov,7.0,2022.0,1
+Menveo,Dr. Kolesnikov,10.0,2022.0,1
+MenQuadfi,Dr. Gamundi,10.0,2022.0,5
+MenQuadfi,Dr. Gupta,8.0,2022.0,4
+MenQuadfi,Dr. Gupta,1.0,2023.0,1
+MenQuadfi,Pediatric Medical World,12.0,2022.0,2
+MenQuadfi,Dr. Gamundi,9.0,2022.0,8
+MenQuadfi,Emmett Pediatric Associates,12.0,2022.0,4
+MenQuadfi,Emmett Pediatric Associates,1.0,2023.0,2
+MenQuadfi,Dr. Gamundi,12.0,2022.0,10
+MenQuadfi,Dr. Gamundi,11.0,2022.0,14
+MenQuadfi,Dr. Gupta,12.0,2022.0,5
+MenQuadfi,Western Care Su Salud,12.0,2022.0,1
+MenQuadfi,Western Care Su Salud,1.0,2023.0,1
+MenQuadfi,Dr. Gupta,11.0,2022.0,6
+MenQuadfi,Dr. Gupta,10.0,2022.0,9
+MenQuadfi,Dr. Gupta,9.0,2022.0,9
+Menactra,Dr. Gupta,8.0,2022.0,3
+Menactra,Western Care Su Salud,10.0,2022.0,3
+Menactra,Western Care Su Salud,8.0,2022.0,1
+Menactra,Dr. Gamundi,9.0,2022.0,2
+Menactra,Western Care Su Salud,12.0,2022.0,2
+Menactra,Western Care Su Salud,11.0,2022.0,2
+Menactra,Dr. Gupta,5.0,2022.0,1
+Menactra,Dr. Gupta,6.0,2022.0,3
+Menactra,Dr. Gupta,7.0,2022.0,2
+KINRIX,Dr. Kolesnikov,3.0,2022.0,1
+KINRIX,Dr. Kolesnikov,1.0,2023.0,3
+KINRIX,Margaret Safo,11.0,2022.0,1
+KINRIX,Margaret Safo,10.0,2022.0,1
+KINRIX,Margaret Safo,8.0,2022.0,1
+KINRIX,Margaret Safo,7.0,2022.0,1
+KINRIX,Margaret Safo,6.0,2022.0,2
+KINRIX,Margaret Safo,4.0,2022.0,3
+KINRIX,Margaret Safo,3.0,2022.0,2
+KINRIX,Margaret Safo,1.0,2023.0,2
+KINRIX,Dr. Kolesnikov,4.0,2022.0,1
+KINRIX,Dr. Kolesnikov,6.0,2022.0,3
+KINRIX,Dr. Kolesnikov,8.0,2022.0,2
+KINRIX,Dr. Kolesnikov,9.0,2022.0,3
+KINRIX,Dr. Kolesnikov,10.0,2022.0,4
+KINRIX,Dr. Kolesnikov,12.0,2022.0,3
+KINRIX,Pediatric Medical World,1.0,2023.0,1
+KINRIX,Pediatric Medical World,12.0,2022.0,4
+IPOL,Dr. Gupta,7.0,2022.0,3
+IPOL,Dr. Gupta,6.0,2022.0,5
+IPOL,Dr. Gupta,8.0,2022.0,8
+IPOL,Dr. Kolesnikov,12.0,2022.0,1
+IPOL,Margaret Safo,11.0,2022.0,1
+IPOL,Dr. Gupta,11.0,2022.0,5
+IPOL,Dr. Kolesnikov,9.0,2022.0,1
+IPOL,Western Care Su Salud,10.0,2022.0,1
+IPOL,Dr. Gamundi,10.0,2022.0,2
+IPOL,Dr. Gupta,10.0,2022.0,4
+IPOL,Dr. Kolesnikov,8.0,2022.0,1
+IPOL,Dr. Gupta,9.0,2022.0,7
+IPOL,Dr. Gupta,12.0,2022.0,3
+INFANRIX,Dr. Kolesnikov,12.0,2022.0,2
+INFANRIX,Dr. Kolesnikov,1.0,2023.0,1
+INFANRIX,Dr. Kolesnikov,10.0,2022.0,1
+INFANRIX,Dr. Kolesnikov,9.0,2022.0,1
+INFANRIX,Dr. Kolesnikov,4.0,2022.0,1
+INFANRIX,Dr. Kolesnikov,8.0,2022.0,1
+INFANRIX,Dr. Kolesnikov,2.0,2022.0,1
+INFANRIX,Western Care Su Salud,10.0,2022.0,1
+INFANRIX,Western Care Su Salud,9.0,2022.0,1
+INFANRIX,Dr. Kolesnikov,7.0,2022.0,1
+INFANRIX,Dr. Kolesnikov,11.0,2022.0,1
+HIBERIX,Dr. Kolesnikov,7.0,2022.0,1
+HIBERIX,Dr. Kolesnikov,8.0,2022.0,4
+HIBERIX,Dr. Kolesnikov,9.0,2022.0,1
+Hiberix,Dr. Kolesnikov,7.0,2022.0,1
+Hiberix,Dr. Kolesnikov,9.0,2022.0,2
+Hiberix,Dr. Kolesnikov,3.0,2022.0,3
+Hiberix,Dr. Kolesnikov,1.0,2023.0,2
+Hiberix,Dr. Kolesnikov,5.0,2022.0,2
+Hiberix,Dr. Kolesnikov,6.0,2022.0,2
+Hiberix,Dr. Kolesnikov,4.0,2022.0,2
+HAVRIX,Dr. Kolesnikov,4.0,2022.0,1
+GARDASIL 9,Dr. Gupta,7.0,2022.0,3
+GARDASIL 9,Dr. Gupta,6.0,2022.0,5
+GARDASIL 9,Dr. Gupta,1.0,2023.0,1
+GARDASIL 9,Dr. Gupta,10.0,2022.0,3
+GARDASIL 9,Dr. Gupta,12.0,2022.0,7
+GARDASIL 9,Margaret Safo,6.0,2022.0,2
+GARDASIL 9,Dr. Gupta,8.0,2022.0,8
+GARDASIL 9,Pediatric Medical World,1.0,2023.0,1
+GARDASIL 9,Pediatric Medical World,12.0,2022.0,2
+GARDASIL 9,Dr. Gupta,9.0,2022.0,5
+GARDASIL 9,Western Care Su Salud,8.0,2022.0,2
+GARDASIL 9,Western Care Su Salud,9.0,2022.0,1
+GARDASIL 9,Western Care Su Salud,10.0,2022.0,3
+GARDASIL 9,Western Care Su Salud,11.0,2022.0,1
+GARDASIL 9,Western Care Su Salud,12.0,2022.0,1
+GARDASIL 9,Margaret Safo,1.0,2023.0,4
+GARDASIL 9,Margaret Safo,4.0,2022.0,6
+GARDASIL 9,Margaret Safo,3.0,2022.0,5
+GARDASIL 9,Emmett Pediatric Associates,1.0,2023.0,2
+GARDASIL 9,Emmett Pediatric Associates,11.0,2022.0,3
+GARDASIL 9,Emmett Pediatric Associates,12.0,2022.0,15
+GARDASIL 9,Dr. Kolesnikov,9.0,2022.0,4
+GARDASIL 9,Dr. Kolesnikov,8.0,2022.0,1
+GARDASIL 9,Dr. Kolesnikov,7.0,2022.0,2
+GARDASIL 9,Dr. Kolesnikov,4.0,2022.0,1
+GARDASIL 9,Dr. Kolesnikov,3.0,2022.0,2
+GARDASIL 9,Margaret Safo,7.0,2022.0,5
+GARDASIL 9,Margaret Safo,8.0,2022.0,3
+GARDASIL 9,Margaret Safo,9.0,2022.0,7
+GARDASIL 9,Margaret Safo,5.0,2022.0,3
+GARDASIL 9,Dr. Gamundi,9.0,2022.0,16
+GARDASIL 9,Dr. Gamundi,10.0,2022.0,2
+GARDASIL 9,Dr. Gamundi,11.0,2022.0,7
+GARDASIL 9,Dr. Gamundi,12.0,2022.0,3
+GARDASIL 9,Margaret Safo,12.0,2022.0,2
+GARDASIL 9,Margaret Safo,11.0,2022.0,4
+GARDASIL 9,Margaret Safo,10.0,2022.0,6
+FLUZONE QUADRIVALENT NORTHERN HEMISPHERE,Western Care PC,9.0,2022.0,12
+FLUZONE QUADRIVALENT NORTHERN HEMISPHERE,Western Care PC,12.0,2022.0,34
+FLUZONE QUADRIVALENT NORTHERN HEMISPHERE,Western Care PC,11.0,2022.0,70
+FLUZONE QUADRIVALENT NORTHERN HEMISPHERE,Western Care PC,10.0,2022.0,89
+FLUZONE QUADRIVALENT,Pediatric Medical World,12.0,2022.0,16
+FLUZONE QUADRIVALENT,Dr. Gupta,11.0,2022.0,38
+FLUZONE QUADRIVALENT,Dr. Gupta,9.0,2022.0,1
+FLUZONE QUADRIVALENT,Dr. Gupta,1.0,2023.0,9
+FLUZONE QUADRIVALENT,Dr. Gupta,12.0,2022.0,33
+FLUZONE QUADRIVALENT,Dr. Gupta,8.0,2022.0,7
+FLUZONE QUADRIVALENT,Dr. Gupta,9.0,2022.0,41
+FLUZONE QUADRIVALENT,Dr. Gupta,10.0,2022.0,30
+FLUZONE QUADRIVALENT,Western Care Su Salud,12.0,2022.0,4
+FLUZONE QUADRIVALENT,Western Care Su Salud,11.0,2022.0,3
+FLUZONE QUADRIVALENT,Western Care Su Salud,10.0,2022.0,22
+FLUZONE QUADRIVALENT,Margaret Safo,10.0,2022.0,11
+FLUZONE QUADRIVALENT,Margaret Safo,10.0,2022.0,24
+FLUZONE QUADRIVALENT,Margaret Safo,9.0,2022.0,14
+FLUZONE QUADRIVALENT,Margaret Safo,8.0,2022.0,4
+FLUZONE QUADRIVALENT,Margaret Safo,1.0,2023.0,19
+FLUZONE QUADRIVALENT,Margaret Safo,5.0,2022.0,1
+FLUZONE QUADRIVALENT,Margaret Safo,4.0,2022.0,1
+FLUZONE QUADRIVALENT,Margaret Safo,3.0,2022.0,1
+FLUZONE QUADRIVALENT,Western Care PC,12.0,2022.0,37
+FLUZONE QUADRIVALENT,Western Care PC,11.0,2022.0,73
+FLUZONE QUADRIVALENT,Western Care PC,10.0,2022.0,94
+FLUZONE QUADRIVALENT,Western Care PC,9.0,2022.0,31
+FLUZONE QUADRIVALENT,Western Care PC,1.0,2023.0,20
+FLUZONE QUADRIVALENT,Margaret Safo,12.0,2022.0,10
+FLUZONE QUADRIVALENT,Western Care Su Salud,1.0,2023.0,2
+FLUZONE QUADRIVALENT,Western Care Su Salud,8.0,2022.0,4
+FLUZONE QUADRIVALENT,Margaret Safo,11.0,2022.0,58
+FLUZONE QUADRIVALENT,Western Care Su Salud,9.0,2022.0,10
+FLUZONE QUADRIVALENT,Emmett Pediatric Associates,1.0,2023.0,8
+FLUZONE QUADRIVALENT,Emmett Pediatric Associates,12.0,2022.0,66
+FLUZONE QUADRIVALENT,Emmett Pediatric Associates,11.0,2022.0,11
+FLUZONE QUADRIVALENT,Margaret Safo,11.0,2022.0,32
+FLUZONE QUADRIVALENT,Dr. Gupta,10.0,2022.0,17
+FLUZONE QUADRIVALENT,Margaret Safo,12.0,2022.0,18
+FLUZONE,Emmett Pediatric Associates,11.0,2022.0,4
+FLUZONE,Emmett Pediatric Associates,12.0,2022.0,2
+Flulaval Quadrivalent,Dr. Kolesnikov,1.0,2023.0,6
+Flulaval Quadrivalent,Dr. Kolesnikov,12.0,2022.0,16
+Flulaval Quadrivalent,Dr. Kolesnikov,11.0,2022.0,4
+Flulaval Quadrivalent,Dr. Kolesnikov,11.0,2021.0,1
+Flulaval Quadrivalent,Dr. Kolesnikov,10.0,2022.0,9
+FLUARIX QUADRIVALENT,Pediatric Medical World,12.0,2022.0,17
+FLUARIX QUADRIVALENT,Dr. Gamundi,1.0,2023.0,10
+FLUARIX QUADRIVALENT,Dr. Gamundi,9.0,2022.0,21
+FLUARIX QUADRIVALENT,Dr. Gamundi,10.0,2022.0,26
+FLUARIX QUADRIVALENT,Dr. Gamundi,11.0,2022.0,38
+FLUARIX QUADRIVALENT,Dr. Gamundi,12.0,2022.0,34
+FLUARIX QUADRIVALENT,Pediatric Medical World,1.0,2023.0,16
+ENGERIX-B,Pediatric Medical World,12.0,2022.0,1
+ENGERIX-B,Dr. Kolesnikov,11.0,2022.0,2
+ENGERIX-B,Western Care PC,1.0,2023.0,1
+ENGERIX-B,Western Care PC,12.0,2022.0,1
+DAPTACEL,Dr. Gamundi,1.0,2023.0,1
+DAPTACEL,Dr. Gamundi,10.0,2022.0,3
+DAPTACEL,Dr. Gamundi,12.0,2022.0,1
+DAPTACEL,Dr. Gupta,12.0,2022.0,5
+DAPTACEL,Dr. Gupta,11.0,2022.0,7
+DAPTACEL,Dr. Gupta,10.0,2022.0,4
+DAPTACEL,Dr. Gupta,9.0,2022.0,8
+DAPTACEL,Dr. Gupta,8.0,2022.0,10
+DAPTACEL,Dr. Gupta,7.0,2022.0,8
+DAPTACEL,Margaret Safo,11.0,2022.0,1
+DAPTACEL,Dr. Gupta,6.0,2022.0,2
+DAPTACEL,Dr. Gupta,5.0,2022.0,2
+BOOSTRIX,Margaret Safo,9.0,2022.0,3
+BOOSTRIX,Margaret Safo,12.0,2022.0,1
+BOOSTRIX,Margaret Safo,10.0,2022.0,7
+BOOSTRIX,Margaret Safo,8.0,2022.0,4
+BOOSTRIX,Margaret Safo,7.0,2022.0,5
+BOOSTRIX,Margaret Safo,6.0,2022.0,1
+BOOSTRIX,Margaret Safo,5.0,2022.0,2
+BOOSTRIX,Margaret Safo,4.0,2022.0,3
+BOOSTRIX,Margaret Safo,3.0,2022.0,3
+BOOSTRIX,Margaret Safo,1.0,2023.0,3
+BOOSTRIX,Western Care PC,12.0,2022.0,1
+BOOSTRIX,Western Care PC,1.0,2023.0,2
+BOOSTRIX,Dr. Kolesnikov,12.0,2022.0,3
+BOOSTRIX,Dr. Kolesnikov,9.0,2022.0,2
+BOOSTRIX,Dr. Kolesnikov,7.0,2022.0,1
+BOOSTRIX,Dr. Kolesnikov,6.0,2022.0,2
+BOOSTRIX,Dr. Kolesnikov,4.0,2022.0,1
+BOOSTRIX,Dr. Kolesnikov,3.0,2022.0,1
+BOOSTRIX,Dr. Kolesnikov,2.0,2022.0,1
+BOOSTRIX,Dr. Kolesnikov,1.0,2023.0,2
+Bexsero,Margaret Safo,4.0,2022.0,1
+Bexsero,Dr. Gamundi,12.0,2022.0,5
+Bexsero,Dr. Gamundi,11.0,2022.0,1
+Bexsero,Dr. Gamundi,10.0,2022.0,2
+Bexsero,Dr. Gamundi,1.0,2023.0,1
+Bexsero,Pediatric Medical World,12.0,2022.0,2
+Bexsero,Pediatric Medical World,1.0,2023.0,1
+Bexsero,Margaret Safo,4.0,2022.0,8
+Bexsero,Margaret Safo,5.0,2022.0,4
+Bexsero,Western Care Su Salud,12.0,2022.0,5
+Bexsero,Western Care Su Salud,11.0,2022.0,3
+Bexsero,Western Care Su Salud,10.0,2022.0,4
+Bexsero,Western Care Su Salud,9.0,2022.0,2
+Bexsero,Western Care Su Salud,8.0,2022.0,2
+Bexsero,Western Care Su Salud,1.0,2023.0,1
+Bexsero,Margaret Safo,6.0,2022.0,4
+Bexsero,Margaret Safo,7.0,2022.0,5
+Bexsero,Margaret Safo,8.0,2022.0,6
+Bexsero,Margaret Safo,9.0,2022.0,5
+Bexsero,Margaret Safo,10.0,2022.0,7
+Bexsero,Margaret Safo,11.0,2022.0,5
+Bexsero,Margaret Safo,12.0,2022.0,4
+Bexsero,Dr. Gamundi,9.0,2022.0,4
+Bexsero,Margaret Safo,3.0,2022.0,2
+Adacel,Dr. Gamundi,10.0,2022.0,1
+Adacel,Dr. Gamundi,9.0,2022.0,13
+Adacel,Dr. Gupta,10.0,2022.0,7
+Adacel,Dr. Gupta,9.0,2022.0,4
+Adacel,Pediatric Medical World,1.0,2023.0,1
+Adacel,Dr. Gupta,8.0,2022.0,8
+Adacel,Dr. Gupta,7.0,2022.0,3
+Adacel,Dr. Gupta,6.0,2022.0,2
+Adacel,Emmett Pediatric Associates,12.0,2022.0,1
+Adacel,Emmett Pediatric Associates,1.0,2023.0,2
+Adacel,Western Care Su Salud,11.0,2022.0,2
+Adacel,Western Care Su Salud,10.0,2022.0,3
+Adacel,Dr. Gupta,1.0,2023.0,2
+Adacel,Dr. Gamundi,12.0,2022.0,2
+Adacel,Dr. Gupta,12.0,2022.0,6
+Adacel,Dr. Gamundi,11.0,2022.0,8
+Adacel,Dr. Gupta,5.0,2022.0,1
+ActHIB,Margaret Safo,3.0,2022.0,4
+ActHIB,Dr. Gupta,11.0,2022.0,2
+ActHIB,Dr. Gupta,10.0,2022.0,1
+ActHIB,Dr. Gupta,9.0,2022.0,4
+ActHIB,Dr. Gupta,8.0,2022.0,8
+ActHIB,Margaret Safo,4.0,2022.0,1
+ActHIB,Margaret Safo,11.0,2022.0,1
+ActHIB,Dr. Gupta,7.0,2022.0,6
+ActHIB,Dr. Gupta,6.0,2022.0,3
+ActHIB,Dr. Gupta,5.0,2022.0,1
+ActHIB,Dr. Gupta,12.0,2022.0,1
+ActHIB,Dr. Gupta,11.0,2022.0,3
+ActHIB,Dr. Gupta,12.0,2022.0,1
